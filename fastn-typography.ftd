@@ -1,17 +1,17 @@
--- import: <user_name>.github.io/<repo_name>
+-- import: bholeketan.github.io/ketan
 
 
 
--- site-doc.doc-home: <repo_name> package
-site-title: `<repo_name>`
+-- site-doc.doc-home: ketan package
+site-title: `ketan`
 show-tabs: false
-github-url: <user_name>.github.io/<repo_name>
-current-package: <user_name>.github.io/<repo_name>
+github-url: bholeketan.github.io/ketan
+current-package: bholeketan.github.io/ketan
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of ketan.
 
 -- display-type:
-types: $<repo_name>.types
+types: $ketan.types
 
 
 -- end: site-doc.doc-home
